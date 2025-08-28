@@ -7,6 +7,10 @@ body {
         color: rgb(145, 214, 214);
     }
 
+    a {
+        color: orange
+    }
+    
     .Lotus {
         color: red;
     }
