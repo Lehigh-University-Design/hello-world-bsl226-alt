@@ -7,24 +7,24 @@ body {
     h1 {
         color: rgb(128, 218, 98);
         text-decoration: overline; /* added line decorations (AUG 27) */
-        font-family: 'Work Sans', sans-serif;
+        font-family: 'Work Sans', sans-serif; /* added font (SEP 1) */
         font-weight: 200;
         font-style: normal;
     }
 
     h2 {
         text-decoration: line-through;
-        font-family: 'Work Sans', sans-serif;
+        font-family: 'Work Sans', sans-serif; /* added font (SEP 1) */
         font-weight: 200;
         font-style: normal;
     }
 
     h3 {
         text-decoration: underline;
-       font-family: "TASA Explorer", sans-serif;
-       font-optical-sizing: auto;
-       font-weight: 200;
-       font-style: normal;
+        font-family: "TASA Explorer", sans-serif; /* added font (SEP 1) */
+        font-optical-sizing: auto;
+        font-weight: 200;
+        font-style: normal;
 
     }
 
